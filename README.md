@@ -17,7 +17,3 @@ http://canitel.eu5.net/Informatica/HTML.html
 http://canitel.eu5.net/Informatica/Fonts.html
 #
 #
-https://sway.office.com/UVIIHVjoEGiub1mR
-#
-#
-Ссылки на сайты
